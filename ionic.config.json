@@ -1,0 +1,7 @@
+{
+  "name": "homoeokulweb",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
